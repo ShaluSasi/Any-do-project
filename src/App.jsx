@@ -46,7 +46,7 @@ function App() {
     <>
       <main>
         <UserContext.Provider value={{ itemsData, setItemsData }}>
-          <BasicExample />
+          <BasicExample /> <BasicExample />
           <div className="row1" style={{ height: "100%" }}>
             <div
               className="column1 left"
