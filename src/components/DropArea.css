@@ -1,0 +1,7 @@
+.drop-area {
+  opacity: 1;
+  transition: all 0.2s ease-in-out;
+}
+.hide-drop {
+  opacity: 0;
+}
